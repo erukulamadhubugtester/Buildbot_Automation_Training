@@ -21,3 +21,18 @@ console.log(age2);
 age3=0.0988;
 console.log(age3);
 
+
+
+// var a="test"
+// console.log(a)
+
+// let b=28;
+// console.log(b)
+// b=10;
+// console.log(b)
+
+const e=10;
+console.log(e)
+
+e=20;
+console.log(e) // TypeError: can not resing 

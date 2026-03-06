@@ -8,7 +8,7 @@ const user = {
 // console.log(user.name="madhu")
 
 
-// // user is Object 
+// //user is Object 
 
 // // const re-chnage using dot notation and bracket notation
 
