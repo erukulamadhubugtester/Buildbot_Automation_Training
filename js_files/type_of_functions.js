@@ -24,7 +24,7 @@ const greet = function() {
 
 greet();
 
-// 3. Arrow Functions (Modern JS)
+// 3. Arrow Functions (Modern JS) ECMAscript
 const add = (a, b) => {
   return a + b;
 };

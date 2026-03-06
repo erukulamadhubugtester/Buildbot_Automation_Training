@@ -17,3 +17,8 @@ function square(number) {
 console.log(square(4));
 console.log(square(5));
 console.log(square(6));
+
+
+function greet(){
+  return 
+}
