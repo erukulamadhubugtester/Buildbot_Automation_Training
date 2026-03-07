@@ -17,4 +17,4 @@ Non-Primitive Types
 Objects - Done 
 Arrays - Done 
 Functions - Done 
-Types of functions - Done - expression , parameters, =>, return
+Types of functions - Done - 
