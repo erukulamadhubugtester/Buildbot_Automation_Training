@@ -18,3 +18,13 @@ Objects - Done
 Arrays - Done 
 Functions - Done 
 Types of functions - Done - 
+
+3. Operators
+JavaScript Operators - Done 
+Arithmetic Operators - Done 
+Assignment Operators - Done 
+Comparision Operators - 
+Equality Operators - 
+Ternary Operators - 
+Logical Operators with non - boolean
+BitWise Operators
