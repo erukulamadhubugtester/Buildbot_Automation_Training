@@ -23,8 +23,31 @@ Types of functions - Done -
 JavaScript Operators - Done 
 Arithmetic Operators - Done 
 Assignment Operators - Done 
-Comparision Operators - 
-Equality Operators - 
-Ternary Operators - 
-Logical Operators with non - boolean
-BitWise Operators
+Comparision Operators - Done 
+Equality Operators - Done 
+Ternary Operators - Done 
+Logical Operators with non - boolean - Done 
+BitWise Operators - Done 
+Operator Precedence - Done 
+
+4. Control Flow 
+if-else - Done 
+Switch...case - Done 
+For - Done 
+While - Done 
+Do...While - Done 
+Infinite Loops - Done 
+For...In - Done
+For...of - Done 
+Break and Continue
+Max of Two Numbers
+Exercise- Landscape or Portrait
+Exercise- FizzBuzz
+Exercise- Demerit Points
+Exercise- Even and Odd Numbers
+Exercise- Count Truthy
+Exercise- String Properties
+Exercise- Sum of Multiples 3 and 5
+Exercise - Grade
+Exercise - Stars
+Exercise - Prime Numbers
