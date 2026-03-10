@@ -1,5 +1,6 @@
-let arr=[1,2,3,4,5]
+let arr=[1,2,3,45,57]
 
-let out=arr.unshift(10)
-console.log(out)
+arr.splice(1,3,100,"qa")
 console.log(arr)
+
+

@@ -32,14 +32,14 @@ Operator Precedence - Done
 
 4. Control Flow 
 if-else - Done 
-Switch...case - Done 
+Switch...case & break and default  - Done 
 For - Done 
 While - Done 
 Do...While - Done 
 Infinite Loops - Done 
 For...In - Done
 For...of - Done 
-Break and Continue
+Break and Continue - Done 
 Max of Two Numbers
 Exercise- Landscape or Portrait
 Exercise- FizzBuzz
