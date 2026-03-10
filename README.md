@@ -40,14 +40,35 @@ Infinite Loops - Done
 For...In - Done
 For...of - Done 
 Break and Continue - Done 
-Max of Two Numbers
-Exercise- Landscape or Portrait
-Exercise- FizzBuzz
-Exercise- Demerit Points
-Exercise- Even and Odd Numbers
-Exercise- Count Truthy
-Exercise- String Properties
-Exercise- Sum of Multiples 3 and 5
-Exercise - Grade
-Exercise - Stars
-Exercise - Prime Numbers
+Max of Two Numbers - Done
+Exercise- Landscape or Portrait - Done 
+Exercise- FizzBuzz - Done 
+Exercise- Demerit Points - Done 
+Exercise- Even and Odd Numbers - Done
+Exercise- Count Truthy - Done 
+Exercise- String Properties - Done
+Exercise- Sum of Multiples 3 and 5 - Done
+Exercise - Grade - NO clear  
+Exercise - Stars - Done
+Exercise - Prime Numbers - Done 
+5. Objects
+Basics
+Factory Functions
+Constructor Functions
+Dynamic Nature of objects
+Constructor property
+Functions are Objects
+Value vs. Reference Types
+Enumerating Properties of an Objects
+Cloning an Object
+Garbage Collection
+Math
+String
+Template Literals
+Date
+Exercise 1- Address Object
+Exercise- Factory and Constructor Function
+Exercise 3- Object Equality
+Exercise 4- Blog Post Object
+Exercise 5- Constructor Functions
+Exercise 6- Price Range Objects
