@@ -51,13 +51,14 @@ Exercise- Sum of Multiples 3 and 5 - Done
 Exercise - Grade - NO clear  
 Exercise - Stars - Done
 Exercise - Prime Numbers - Done 
+
 5. Objects
-Basics
-Factory Functions
-Constructor Functions
-Dynamic Nature of objects
-Constructor property
-Functions are Objects
+Basics - Done 
+Factory Functions - Done 
+Constructor Functions - Done 
+Dynamic Nature of objects - Done
+Constructor property - Done 
+Functions are Objects - Done
 Value vs. Reference Types
 Enumerating Properties of an Objects
 Cloning an Object
