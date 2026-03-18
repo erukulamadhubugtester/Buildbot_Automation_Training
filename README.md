@@ -59,11 +59,11 @@ Constructor Functions - Done
 Dynamic Nature of objects - Done
 Constructor property - Done 
 Functions are Objects - Done
-Value vs. Reference Types
-Enumerating Properties of an Objects
-Cloning an Object
-Garbage Collection
-Math
+Value vs. Reference Types - Done 
+Enumerating Properties of an Objects - Done 
+Cloning an Object - Done
+Garbage Collection - Done 
+Math - Done 
 String
 Template Literals
 Date
@@ -73,3 +73,44 @@ Exercise 3- Object Equality
 Exercise 4- Blog Post Object
 Exercise 5- Constructor Functions
 Exercise 6- Price Range Objects
+
+6. Arrays
+Introduction
+Adding Elements
+Finding Elements (Primitives)
+Finding Elements (Reference Types)
+Arrow Functions
+Removing Elements
+Emptying an Array
+Combining and Slicing Arrays
+The Spread Operator
+Iterating an Array
+Joining Arrays
+Sorting Arrays
+Testing the Elements of an Array
+Filtering an Array
+Mapping an Array
+Reducing an Array
+Exercise 1- Array from Range
+Exercise 2- Includes
+Exercise 3- Except
+Exercise 4- Moving an Element
+Exercise 5- Count Occurrences
+Exercise 6- Get Max
+Exercise 7- Movies
+
+7. Functions 
+Function Declarations vs. Expressions
+Hoisting
+Arguments
+The Rest Operator
+Default Parameters
+Getters and Setters
+Try and Catch
+Local vs. Global Scope
+Let vs Var
+The This Keyword
+Changing This
+Exercise 1- Sum of Arguments
+Exercise 2- Area of Circle
+Exercise 3- Error Handling
