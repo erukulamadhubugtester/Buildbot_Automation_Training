@@ -64,9 +64,9 @@ Enumerating Properties of an Objects - Done
 Cloning an Object - Done
 Garbage Collection - Done 
 Math - Done 
-String
-Template Literals
-Date
+String - Done 
+Template Literals - Done 
+Date - Done 
 Exercise 1- Address Object
 Exercise- Factory and Constructor Function
 Exercise 3- Object Equality
