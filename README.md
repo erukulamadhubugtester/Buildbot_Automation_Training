@@ -67,8 +67,8 @@ Math - Done
 String - Done 
 Template Literals - Done 
 Date - Done 
-Exercise 1- Address Object
-Exercise- Factory and Constructor Function
+Exercise 1- Address Object - Done 
+Exercise- Factory and Constructor Function - Done 
 Exercise 3- Object Equality
 Exercise 4- Blog Post Object
 Exercise 5- Constructor Functions
