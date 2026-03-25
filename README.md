@@ -69,8 +69,8 @@ Template Literals - Done
 Date - Done 
 Exercise 1- Address Object - Done 
 Exercise- Factory and Constructor Function - Done 
-Exercise 3- Object Equality
-Exercise 4- Blog Post Object
+Exercise 3- Object Equality - Done 
+Exercise 4- Blog Post Object - Done 
 Exercise 5- Constructor Functions
 Exercise 6- Price Range Objects
 
