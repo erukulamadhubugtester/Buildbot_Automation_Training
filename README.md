@@ -71,8 +71,8 @@ Exercise 1- Address Object - Done
 Exercise- Factory and Constructor Function - Done 
 Exercise 3- Object Equality - Done 
 Exercise 4- Blog Post Object - Done 
-Exercise 5- Constructor Functions
-Exercise 6- Price Range Objects
+Exercise 5- Constructor Functions - Done
+Exercise 6- Price Range Objects - Done
 
 6. Arrays
 Introduction
