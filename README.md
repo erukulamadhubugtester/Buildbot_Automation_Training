@@ -75,12 +75,12 @@ Exercise 5- Constructor Functions - Done
 Exercise 6- Price Range Objects - Done
 
 6. Arrays
-Introduction
-Adding Elements
-Finding Elements (Primitives)
-Finding Elements (Reference Types)
-Arrow Functions
-Removing Elements
+Introduction - Done 
+Adding Elements - Done 
+Finding Elements (Primitives) - Done 
+Finding Elements (Reference Types) - Done 
+Arrow Functions - Done
+Removing Elements - Done 
 Emptying an Array
 Combining and Slicing Arrays
 The Spread Operator
