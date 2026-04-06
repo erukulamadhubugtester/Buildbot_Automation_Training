@@ -81,9 +81,9 @@ Finding Elements (Primitives) - Done
 Finding Elements (Reference Types) - Done 
 Arrow Functions - Done
 Removing Elements - Done 
-Emptying an Array
-Combining and Slicing Arrays
-The Spread Operator
+Emptying an Array - Done
+Combining and Slicing Arrays - Done 
+The Spread Operator - Done 
 Iterating an Array
 Joining Arrays
 Sorting Arrays
