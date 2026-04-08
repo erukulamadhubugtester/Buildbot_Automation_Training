@@ -84,8 +84,8 @@ Removing Elements - Done
 Emptying an Array - Done
 Combining and Slicing Arrays - Done 
 The Spread Operator - Done 
-Iterating an Array
-Joining Arrays
+Iterating an Array - Done 
+Joining Arrays - Done 
 Sorting Arrays
 Testing the Elements of an Array
 Filtering an Array
