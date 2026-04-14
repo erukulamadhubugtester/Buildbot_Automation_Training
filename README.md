@@ -86,10 +86,10 @@ Combining and Slicing Arrays - Done
 The Spread Operator - Done 
 Iterating an Array - Done 
 Joining Arrays - Done 
-Sorting Arrays
-Testing the Elements of an Array
-Filtering an Array
-Mapping an Array
+Sorting Arrays - Done 
+Testing the Elements of an Array - Done 
+Filtering an Array - Done 
+Mapping an Array - Done 
 Reducing an Array
 Exercise 1- Array from Range
 Exercise 2- Includes
