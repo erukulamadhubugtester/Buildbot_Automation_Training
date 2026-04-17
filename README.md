@@ -100,11 +100,11 @@ Exercise 6- Get Max
 Exercise 7- Movies
 
 7. Functions 
-Function Declarations vs. Expressions
-Hoisting
-Arguments
+Function Declarations vs. Expressions - Done 
+Hoisting - Done 
+Arguments - Done 
 The Rest Operator
-Default Parameters
+Default Parameters - Done
 Getters and Setters
 Try and Catch
 Local vs. Global Scope
