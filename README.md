@@ -105,10 +105,10 @@ Hoisting - Done
 Arguments - Done 
 The Rest Operator
 Default Parameters - Done
-Getters and Setters
-Try and Catch
-Local vs. Global Scope
-Let vs Var
+Getters and Setters - Done
+Try and Catch - Done 
+Local vs. Global Scope - Done in and out scope 
+Let vs Var - Done - block scope 
 The This Keyword
 Changing This
 Exercise 1- Sum of Arguments
